@@ -34,3 +34,14 @@ console.log(newString.includes("A")) //return true or false
 
 const secondNew = String("abhijadhav");
 console.log(secondNew.split(''));
+
+// Methods:
+// .lenght() - this method find lenght of String
+// .toUpperCase() - this method convert lower string to upper case
+// .charAt() - find kontya position vr kont charectar ahe
+// .indexOf() - find kontya charectar kontya position vr ahe
+// .slice(0,2) - this method  allows negative value (mhanje string reverce karnyasathi = slice(-8,2))
+// .subString(3,4) - hi method sub string sathi use hote mhnaje apn jr ABHISHEK he string dili tr print hotan IS display hoil
+// .trim() - This method use remove start or end whitespaces (and there are two type trimstart() and trimend())
+// .replece() - replace('ji value change karachi ti','new value')
+// .split(separator,limit)
